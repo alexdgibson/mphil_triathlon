@@ -3,7 +3,7 @@ message: "If you use this repository, please cite it as below."
 authors:
 - family-names: "Gibson"
   given-names: "Alexander"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0002-2201-9592"
 title: "mphil_triathlon"
 version: 1.0.1
 doi: 10.5281/zenodo.11364184
